@@ -1,2 +1,2 @@
 # component-app
-Component App assistant for your lab projects assembling PCBs
+Component App assistant for your lab projects.
